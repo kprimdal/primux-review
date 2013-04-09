@@ -1,0 +1,14 @@
+.ratings_stars {  
+    background: url('img/black-star16.png') no-repeat;  
+    float:      left;  
+    height:     14px;  
+    padding:    2px;  
+    width:      14px;
+    cursor: 	pointer;
+}  
+.ratings_click {  
+    background: url('img/gold-star16.png') no-repeat;
+}
+.ratings_over {  
+    background: url('img/red-star16.png') no-repeat;
+} 
